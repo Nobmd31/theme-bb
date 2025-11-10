@@ -24,25 +24,13 @@
         "overlay_opacity": 0
       }
     },
-    "custom_liquid_e6acxA": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "logo_list_4BjWGF": {
       "type": "logo-list",
       "blocks": {
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/telechargement-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
@@ -50,6 +38,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/unnamed-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
@@ -57,6 +46,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie-Claire-Logo-nh6f7e7eb3ap0wedm25gtflxc7k2zjjc3p4zguiq6w-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
@@ -64,6 +54,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -87,7 +78,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur:",
+        "title": "Ils parlent de nous :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -1028,7 +1019,6 @@
   },
   "order": [
     "image-with-text-overlay",
-    "custom_liquid_e6acxA",
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
