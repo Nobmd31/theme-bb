@@ -82,7 +82,7 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#f0f0f0",
+        "background": "#f8f7f6",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -93,20 +93,6 @@
     },
     "rich_text_c9UmPD": {
       "type": "rich-text",
-      "blocks": {
-        "heading_JGUWbW": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir la Micro Infusion Anti-âge ceralyne ?",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_JGUWbW"
-      ],
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -123,50 +109,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "rich_text_QXqMJ7": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_dCqXRR": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_gcwVkK": {
-          "type": "heading",
-          "settings": {
-            "text": "Un mode d'infusion innovant et indolore",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_kzMpxh": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_dCqXRR",
-        "heading_gcwVkK",
-        "richtext_kzMpxh"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -177,7 +125,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Nos clientes en parlent le mieux",
+        "heading": "Nos clients en parlent le mieux",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -287,7 +235,7 @@
         "stars_bg_color": "#00b67a",
         "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#f0f0f0",
+        "background_color": "#f8f7f6",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -436,7 +384,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "",
+        "background": "#f8f7f6",
         "background_gradient": "",
         "text_color": ""
       }
@@ -1022,7 +970,6 @@
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
-    "rich_text_QXqMJ7",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
